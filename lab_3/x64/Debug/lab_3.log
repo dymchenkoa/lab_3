@@ -1,0 +1,5 @@
+﻿  lab3.cpp
+D:\Student\lab3\lab3.cpp(17,9): warning C4804: <=: небезопасное использование типа "bool" в операции
+D:\Student\lab3\lab3.cpp(20,9): warning C4804: <=: небезопасное использование типа "bool" в операции
+D:\Student\lab3\lab3.cpp(23,10): warning C4804: <: небезопасное использование типа "bool" в операции
+  lab_3.vcxproj -> D:\Student\lab_3\x64\Debug\lab_3.exe
